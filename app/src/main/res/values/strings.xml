@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PatternsKotlin</string>
+    <string name="txt_item_home">INICIO</string>
+    <string name="txt_item_favorites">FAVORITOS</string>
+    <string name="txt_item_extra">EXTRA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
